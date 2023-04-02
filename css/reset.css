@@ -1,0 +1,15 @@
+:root{
+    --soft-blue: #00bfff;
+    --cyan: #00fff7;
+    --mainBG: #0d192B;
+    --cardBG: #14253d;
+    --line: #2f415b;
+    --white: #fff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
